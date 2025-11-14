@@ -1,1 +1,3 @@
+# About Us
+
 [Cosmik](https://cosmik.network/) is a product and mission-driven R&D lab, building new kinds of social media for collective sensemaking. We’re integrating AI with  open social networks and new publishing methods such as [nanopublishing](https://nanopub.net/) to transform how research is shared, recognized, and who can participate in it. Our first project, [Semble](https://github.com/cosmik-network/semble), is a social knowledge network on [ATProto](https://atproto.com/) for collaborative knowledge curation and discovery.
